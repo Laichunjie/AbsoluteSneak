@@ -8,6 +8,7 @@ public class MyText : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Mytext = GetComponent<Text>();
+        ///ASasASAA
 	}
 	
 	// Update is called once per frame
