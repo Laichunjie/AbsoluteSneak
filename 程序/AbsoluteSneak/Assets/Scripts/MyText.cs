@@ -7,7 +7,7 @@ public class MyText : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	    
+        Mytext = GetComponent<Text>();
 	}
 	
 	// Update is called once per frame
